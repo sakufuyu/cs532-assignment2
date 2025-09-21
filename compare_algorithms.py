@@ -54,7 +54,7 @@ def performance_comparison(arr_sizes):
 
 # Test execution
 if __name__ == "__main__":
-    arr_sizes = [1, 10, 50, 100, 200, 300, 500]
+    arr_sizes = [10, 50, 100, 200, 300, 500]
     results = performance_comparison(arr_sizes)
 
     # Display results
